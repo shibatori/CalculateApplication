@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">简单计算器</string>
+    <string name="clear">嘻嘻哈哈</string>
+    <string name="ei_hint">请输入密码</string>
+    <string name="male">男</string>
+    <string name="female">女</string>
+    <string name="shemale">外星人</string>
+    <string name="red">红</string>
+    <string name="blue">蓝</string>
+    <string name="green">绿</string>
+    <string name="black">黑</string>
+    <string name="purple">紫</string>
+    <string name="push">点一下</string>
+    <string-array name="my_strings">
+        <item>凯特</item>
+        <item>乔丹</item>
+        <item>hellokity</item>
+    </string-array>
+</resources>

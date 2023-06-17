@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">小鸡子计算器</string>
+    <string name="clear">Go Off,COVID-19!</string>
+    <string name="ei_hint">Please input your password</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="shemale">Ladyboy</string>
+    <string name="red">Red</string>
+    <string name="blue">Blue</string>
+    <string name="green">Green</string>
+    <string name="black">Black</string>
+    <string name="purple">Purple</string>
+    <string name="push">Push</string>
+    <string-array name="my_strings">
+        <item>kate</item>
+        <item>jorden</item>
+        <item>hellokity</item>
+    </string-array>
+</resources>
